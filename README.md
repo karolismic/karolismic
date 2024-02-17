@@ -21,7 +21,7 @@ Embracing the Agile and DevOps philosophies, I am committed to fostering a colla
 <b>Certifications:</b>   
 <br><div>
  <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" title="AzureFundamentals" alt="AzureFundamentals" width="100" height="100"/>&nbsp;
- <img src="https://getspace.cloud/cloud/s/rnDZn9SLkkrryaN" title="Docker" alt="Docker" width="100" height="100"/>&nbsp;
+ <img src="https://getspace.cloud/cloud/apps/files_sharing/publicpreview/rnDZn9SLkkrryaN?file=/&fileId=60352906&x=1925&y=940&a=true&etag=88df6869c57b8737de1936b282c39826" title="Docker" alt="Docker" width="100" height="100"/>&nbsp;
 </div>  
 
 <br><b>Contact:</b>
