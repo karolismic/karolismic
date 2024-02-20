@@ -1,10 +1,10 @@
 Embracing the Agile and DevOps philosophies, I am committed to fostering a collaborative environment that thrives on continuous improvement, enabling teams to build, test, and release software with both speed and precision.
 
 <b>I am:</b>
-- DevOps & Cloud engineer 
+- DevOps & Cloud practitioner
 - Turing College student in Data Engineering
 - IT engineer with more than 5 years of experience in the field
-- A strong believer in human and technology collaborative power and it's benefits to our growth and quality of life
+- A strong believer in human and technology collaborative power and its benefits to our growth and quality of life
 
 <br>
 <b>Tools and Languages:</b>   
