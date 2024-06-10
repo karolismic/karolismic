@@ -1,7 +1,7 @@
 Embracing the Agile and DevOps philosophies, I am committed to fostering a collaborative environment that thrives on continuous improvement, enabling teams to build, test, and release software with both speed and precision.
 
 <b>I am:</b>
-- Solution engineer at Devoteam
+- Solution engineer at [Devoteam](https://www.devoteam.com/)
 - DevOps & Cloud practitioner
 - Data Engineering student at [Turing College](https://www.turingcollege.com/)
 - IT engineer with more than 5 years of experience in the field
