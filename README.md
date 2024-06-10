@@ -16,7 +16,7 @@ Embracing the Agile and DevOps philosophies, I am committed to fostering a colla
   <img src="https://static-00.iconduck.com/assets.00/terraform-icon-1803x2048-hodrzd3t.png" title="Terraform" alt="Terraform" width="30" height="30"/>&nbsp;
   <img src="https://w7.pngwing.com/pngs/627/244/png-transparent-docker-logo-logos-logos-and-brands-icon-thumbnail.png" title="Docker" alt="Docker" width="30" height="30"/>&nbsp;
 <img src="https://swimburger.net/media/ppnn3pcl/azure.png" title="Azure" alt="Azure" width="30" height="30"/>&nbsp;
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/ServiceNow_logo.svg/2560px-ServiceNow_logo.svg.png](https://jtekds.com/app/uploads/2022/10/276-2764783_servicenow-logo-png-transparent-png.png)" title="ServiceNow" alt="ServiceNow" width="190" height="30"/>&nbsp;
+  <img src="https://jtekds.com/app/uploads/2022/10/276-2764783_servicenow-logo-png-transparent-png.png" title="ServiceNow" alt="ServiceNow" width="190" height="30"/>&nbsp;
 </div>
 
 <br>
