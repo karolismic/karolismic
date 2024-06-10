@@ -3,7 +3,7 @@ Embracing the Agile and DevOps philosophies, I am committed to fostering a colla
 <b>I am:</b>
 - Solution engineer at Devoteam
 - DevOps & Cloud practitioner
-- Data Engineering student at [https://www.turingcollege.com/](Turing College)
+- Data Engineering student at [Turing College](https://www.turingcollege.com/)
 - IT engineer with more than 5 years of experience in the field
 - A strong believer in human and technology collaborative power and its benefits to our growth and quality of life
 
